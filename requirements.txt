@@ -1,0 +1,2 @@
+termcolor
+send2trash
